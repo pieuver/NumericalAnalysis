@@ -5,4 +5,4 @@ Project in order to implement RK2 integral for Riemann integration of continuous
 It implemnents:
 - pointers
 - genericity with templates
-  
+- object oriented
